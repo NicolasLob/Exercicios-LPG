@@ -30,5 +30,5 @@ if (l1 == l2 && l1 == l3){
 } else {
     printf("Nao forma um triangulo");
 }
-
+return 0;
 }
